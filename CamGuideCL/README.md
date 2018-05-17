@@ -7,7 +7,7 @@
 # New Model list
 
 | Model Name |
-|----|
+| :---: |
 |LV-M212C-IN6|
 |LV-M214C-IN6|
 |LV-M218C-IN6|
