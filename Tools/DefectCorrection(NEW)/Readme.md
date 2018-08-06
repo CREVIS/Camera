@@ -10,9 +10,9 @@
   
   
   
-  
->Update Log
 ---------------
+>Update Log
+
 | date | version | Update |
 |---|---|---|
 | 2018.06.27 |1.0| <ul><li> Release <br/></li> |
