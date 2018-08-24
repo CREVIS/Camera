@@ -3,9 +3,9 @@
 
 | date | version | link | Inform |
 |---|---|---|---|
-| 2018.08.24 | 1.2 | [32비트 Download](https://github.com/CREVIS/Camera/raw/master/Tools/DefectCorrection_CL/DefectCorrection_CL(x86)_v1.1.1.zip)| <ul><li>CLCamera디펙검출 프로그램<br/></li> |
-| 2018.08.24 | 1.2 | [64비트 Download](https://github.com/CREVIS/Camera/raw/master/Tools/DefectCorrection_CL/DefectCorrection_CL(x64)_v1.1.1.zip)| <ul><li>CLCamera디펙검출 프로그램<br/></li> |
-| 2018.08.24 | --- | [메뉴얼 Download](https://github.com/CREVIS/Camera/raw/master/Tools/DefectCorrection(NEW)/DefectCorrection(NEW)%EB%A9%94%EB%89%B4%EC%96%BC%202018-06-27.pdf)| <ul><li> 사용 메뉴얼<br/></li> |
+| 2018.08.24 | 1.1.1 | [32비트 Download](https://github.com/CREVIS/Camera/raw/master/Tools/DefectCorrection_CL/DefectCorrection_CL(x86)_v1.1.1.zip)| <ul><li>CLCamera디펙검출 프로그램<br/></li> |
+| 2018.08.24 | 1.1.1 | [64비트 Download](https://github.com/CREVIS/Camera/raw/master/Tools/DefectCorrection_CL/DefectCorrection_CL(x64)_v1.1.1.zip)| <ul><li>CLCamera디펙검출 프로그램<br/></li> |
+| 2018.08.24 | --- | [메뉴얼 Download](https://github.com/CREVIS/Camera/raw/master/Tools/DefectCorrection_CL/DefectCorrection_CL_v1.1.1%20%EB%A9%94%EB%89%B4%EC%96%BC.docx)| <ul><li> 사용 메뉴얼<br/></li> |
   
   
   
