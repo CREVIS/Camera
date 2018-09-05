@@ -15,9 +15,7 @@
 | date | version | Update |
 |---|---|---|
 | 2018.03.13 |4.3.1| <ul><li> Release <br/></li> |
-| 2018.09.04 |4.4.0|   <ul><li> 1. 모델 추가  <br/><li> - GigE : 향후 추가 모델은 Manufactor 이름으로 구분하여 신규 추가 요청 필요 없음.
- 
-<li> - USB2.0 : MV-BW35U, MV-CW35U 모델 추가.
+| 2018.09.04 |4.4.0|   <ul><li> 1. 모델 추가  <li> - GigE : 향후 추가 모델은 Manufactor 이름으로 구분하여 신규 추가 요청 필요 없음.<li> - USB2.0 : MV-BW35U, MV-CW35U 모델 추가.
 
 <li>2. 메뉴얼 오탈자 수정
 
