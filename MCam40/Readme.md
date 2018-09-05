@@ -14,6 +14,6 @@
 
 | date | version | Update |
 |---|---|---|
-| 2018.03.13 |4.3.1| <ul>#. GenICam 2.3.0 -> 2.3.1로 업데이트<br>#. MVIPConfig 업데이트 <ul>1. 어플리케이션 아이콘 변경<br>2. 디바이스 상태 아이콘 변경<br>3. 기능 추가<ul>- LLA 설정<br>- 자동 설정 기능 추가<br>- UserSet File Save/Load 기능 추가 </ul></ul> #. VirtualFG40 에서 추가 기능
+| 2018.03.13 |4.3.1| <ul>#. GenICam 2.3.0 -> 2.3.1로 업데이트<br>#. MVIPConfig 업데이트 <ul>1. 어플리케이션 아이콘 변경<br>2. 디바이스 상태 아이콘 변경<br>3. 기능 추가<ul>- LLA 설정<br>- 자동 설정 기능 추가<br>- UserSet File Save/Load 기능 추가 </ul></ul><br> #. VirtualFG40 에서 추가 기능
 |
 | 2018.09.04 |4.4.0| <ul><li> 1. 모델 추가  <ul><li> GigE : 현재 버전부터는 “Device Vendor Name (Crevis Co., LTD)”으로 리스트 업 되기 때문에 향후 신규 추가 요청은 필요 없음. </ul><ul><li>USB2.0 : MV-BW35U, MV-CW35U 모델 추가.</ul> <li>2. 메뉴얼 오탈자 수정 <li>3. 예제 오탈자 수정 <li>4. C# 라이브러리(VirtualFG40Library) 업데이트 <li> 5. Library 버그 패치 </li> |
