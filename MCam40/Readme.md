@@ -18,11 +18,4 @@
 | 2018.11.27 |4.5.0| <ul><br> **#. GenICam 2.4.1 Update**  <ul>1. CamGuide Update.</ul>  <ul>2. VirtualFG40 Update.</ul> <ul>3. Examples Update.</ul> <ul>4. GenTL v1.2 -> GenTL1.4 Update. </ul></ul> <ul> **#. CamGuide40 Beta Release** <ul>1. 리본메뉴 컨트롤 사용.</ul> <ul>2. 영상 녹화 기능 구현.</ul> <ul>3. 영상 디스플레이 Direct2D 라이브러리 사용. </ul> <ul> **  권장사양  </ul><ul> - OS : Windows7 이상  </ul><ul>- DirectX Version 10.1 이상을 지원하는 그래픽 하드웨어 필요  </ul><ul> ( 윈도우+R -> dxdiag 입력으로 DirectX 버전 확인가능 )  </ul> <ul> - 위 사양이 안되면 기존 CamGuide 사용 권장  </ul> <ul> - 기타 자세한 사용방법은 추후 메뉴얼 제공 예정  </ul>    <br> **#. USB 3.0 Vision 인터페이스 추가 (Alpha)**    <ul> 1. U3V 디바이스 개발 테스트용  </ul> <ul> -> 추후 정식 릴리즈 예정  </ul>|
 
 
-| j    |
-| ---- |
-| y    |
-| k    |
-| i    |
-| m    |
-| j    |
 
