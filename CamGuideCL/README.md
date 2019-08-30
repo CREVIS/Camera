@@ -9,7 +9,7 @@
 | 2019.08.30 | 2.3.5.0 | [Download](https://github.com/CREVIS/Camera/raw/master/CamGuideCL/CamGuideCL_V2.3.5.zip)| <ul><li>CamGuideCL 실행파일 패치 <br/></li>-WhiteBalance 버그 개선 <br/></li> <li>TC-A160K-SEM 신규 모델 등록</li><li>SMCL 시리즈 XML 업데이트 <br/></li><li>LineScan 시리즈 XML 업데이트<br/></li>|
   
 
- <br>
+<br>
 >New Model list
 ---------------
 2019.08.30
