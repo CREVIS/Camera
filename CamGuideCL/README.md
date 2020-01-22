@@ -12,6 +12,13 @@
 <br><br/>
 >New Model list
 ---------------
+2020.01.22
+
+| Model Name |
+| :---: |
+|MC-A121P-67|
+
+
 2019.08.30
 
 | Model Name |
