@@ -13,4 +13,4 @@
 
 | date | version | Update |
 |---|---|---|
-| 2020.05.15 |1.1.0| <ul><li> '.userfile' flashWrite in Developer-Mode <br/></li> |
+| 2020.05.15 |1.1.0| <ul><li> '.userfile' can be written in Developer-Mode <br/></li> |
