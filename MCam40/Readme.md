@@ -43,5 +43,5 @@
 | 2021.01.12 |4.7.2.7684| <br> <ul> <li> **1. GamGuide CL 통합**  </ul> <ul> <li> **2. U3V 드라이버 변경** <ul> <li> libusbk -> WinUSB </ul> <li>**3. CamGuide 추가 기능** <ul><li>연결 상태 확인 기능. </ul><li>**4. VirtualFG40 기능 추가** <ul> <li>연결 상태 확인 기능 추가 (Callback Event / Funtion) <br> <li> 이벤트 기능 추가 ( ExposureEnd, Link Status) </ul><li>**5. FilterDriver 이름 변경** <ul> <li>s2i -> Crevis </ul> <li>**6. 버그 패치** <br><li>**7. 라이브러리 / 실행파일 / 설치 파일 Codesign 진행** |
 | 2021.02.09 |4.7.3.7710| <br> <ul> <li> **1. VirtualFG40 C# 라이브러리 업데이트** <ul> <li> Event 관련 Callback 추가 <br> <li> Read / Write Param 함수 추가. </ul> <br> <li> **2. CamGuide 버그 패치** <ul> <li> 270° Rotate 스크롤 버그 패치 </ul> <br> <li> **3. CL 모델 추가** <ul> <li> MC-A500K-163U </ul>|
 | 2021.02.10 |4.7.3.7711| <br> <ul> <li> **1. VirutualFG40 버그 패치**|
-| 2021.03.30 |4.7.4.7758| <br> <ul> <li> **1. 아이콘 변경.(CamGuide, CamGuide40, CamGuideCL, MvIpConfig)** <br> <li> **2. VirtualFG40 ST_CvtColor 함수 버그 패치**|
+| 2021.03.30 |4.7.4.7758| <br> <ul> <li> **1. 아이콘 변경.(CamGuide, CamGuide40, CamGuideCL, MvIpConfig)** <br> <li> **2. VirtualFG40 ST_CvtColor 함수 버그 패치** <br> <li> **3. CamGuide,CamGuide40** <br> <ul> <li> Auto Contrast 폴링 기능 추가 </ul> <br> <li> **4. CamGuide 편광 Degree 디스플레이 버그 수정** <br> <ul> <li> Degree 90° 에서 스크롤바 제어시 디스플레이 멈추는 버그 수정|
 
