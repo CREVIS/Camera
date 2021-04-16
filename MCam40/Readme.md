@@ -28,10 +28,10 @@
 | 2021.03.30 | 4.7.4.7758 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_Runtime_V4.7.4.7758(x64).zip)| <ul><li>MCam40_Runtime_V4.7.4.7758(x64)<br/></li> |
 | 2021.03.30 | 4.7.4.7758 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_SDK_V4.7.4.7758(x86).zip)| <ul><li>MCam40_SDK_V4.7.4.7758(x86)<br/></li> |
 | 2021.03.30 | 4.7.4.7758 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_SDK_V4.7.4.7758(x64).zip)| <ul><li>MCam40_SDK_V4.7.4.7758(x64)<br/></li> |
-| 2021.03.30 | 4.7.5.7775 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_Runtime_V4.7.5.7775(x86).zip)| <ul><li>MCam40_Runtime_V4.7.5.7775(x86)<br/></li> |
-| 2021.03.30 | 4.7.5.7775 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_Runtime_V4.7.5.7775(x64).zip)| <ul><li>MCam40_Runtime_V4.7.5.7775(x64)<br/></li> |
-| 2021.03.30 | 4.7.5.7775 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_SDK_V4.7.5.7775(x86).zip)| <ul><li>MCam40_SDK_V4.7.5.7775(x86)<br/></li> |
-| 2021.03.30 | 4.7.5.7775 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_SDK_V4.7.5.7775(x64).zip)| <ul><li>MCam40_SDK_V4.7.5.7775(x64)<br/></li> |
+| 2021.04.16 | 4.7.5.7775 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_Runtime_V4.7.5.7775(x86).zip)| <ul><li>MCam40_Runtime_V4.7.5.7775(x86)<br/></li> |
+| 2021.04.16 | 4.7.5.7775 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_Runtime_V4.7.5.7775(x64).zip)| <ul><li>MCam40_Runtime_V4.7.5.7775(x64)<br/></li> |
+| 2021.04.16 | 4.7.5.7775 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_SDK_V4.7.5.7775(x86).zip)| <ul><li>MCam40_SDK_V4.7.5.7775(x86)<br/></li> |
+| 2021.04.16 | 4.7.5.7775 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/MCam40_SDK_V4.7.5.7775(x64).zip)| <ul><li>MCam40_SDK_V4.7.5.7775(x64)<br/></li> |
   
 <br><br><br><br>  
 ---------------
