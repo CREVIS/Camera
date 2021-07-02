@@ -6,6 +6,6 @@
 <br> [Hompage](https://crevis.co.kr/Customer/download)
 
 
-2. 언어 선택
+2. 테스트
 <br> [C++](https://github.com/CREVIS/Camera/tree/master/MCam40)
 <br> [C#](https://github.com/CREVIS/Camera/tree/master/MCam40)
