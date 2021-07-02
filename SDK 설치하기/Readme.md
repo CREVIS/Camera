@@ -3,3 +3,8 @@
 
 1. 설치 링크
 <br> [여기를 클릭하세요](https://github.com/CREVIS/Camera/tree/master/MCam40)
+
+
+2. 언어 선택
+<br> [C++](https://github.com/CREVIS/Camera/tree/master/MCam40)
+<br> [C#](https://github.com/CREVIS/Camera/tree/master/MCam40)
