@@ -3,7 +3,7 @@
 
 1. 최신버전 다운로드 하기
    - (링크1) [Git](https://github.com/CREVIS/Camera/tree/master/MCam40)
-   - (링크2) [Hompage](https://crevis.co.kr/Customer/download)
+   - (링크2) [CREVIS Hompage](https://crevis.co.kr/Customer/download)
 <br>
 
 2. 설치 하기
