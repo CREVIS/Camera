@@ -7,7 +7,7 @@
 
 <br></br>
 참고 사항
-- Continuous Grab을 위한 함수 수정 : Continuous Grab을 사용하기 위해선 TriggerMode=OFF, ContinuousGrabbing(1) 설정필요
+- Continuous Grab을 위한 코드 수정 : Continuous Grab을 사용하기 위해선 TriggerMode=OFF, ContinuousGrabbing(1) 설정필요
 - GrabAsync를 위한 함수 수정 : 비동기 그랩을 위해서 GrabAsyncStart, GrabAsync필요
 
 <br></br>
