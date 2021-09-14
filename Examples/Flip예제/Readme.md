@@ -1,8 +1,8 @@
 
-#예제 1. OpenCv를 사용한 버전
+# 예제 1. OpenCv를 사용한 버전
 - OpenCV_Flip ([클릭하여 다운로드](https://github.com/CREVIS/Camera/raw/master/Examples/Flip%EC%98%88%EC%A0%9C/OpenCV_Flip.zip))
 
-#예제 2. OpenCV를 사용하지 않고 메모리를 사용한 버전(이미지 출력을 위해서만 사용)
+# 예제 2. OpenCV를 사용하지 않고 메모리를 사용한 버전(이미지 출력을 위해서만 사용)
 - Cpp_memory_flip ([클릭하여 다운로드](https://github.com/CREVIS/Camera/raw/master/Examples/Flip%EC%98%88%EC%A0%9C/Cpp_memory_flip.zip))
 
 <br></br>
