@@ -1,6 +1,6 @@
-<br>예제 1. OpenCv를 사용한 버전 
+<ul><li>예제 1. OpenCv를 사용한 버전 
 <ul><li> OpenCV_Flip [클릭하여 다운로드]
-<br>예제 2. OpenCV를 사용하지 않고 메모리를 사용한 버전(이미지 출력을 위해서만 사용) 
+<ul><li>예제 2. OpenCV를 사용하지 않고 메모리를 사용한 버전(이미지 출력을 위해서만 사용) 
 <ul><li> Cpp_memory_flip [클릭하여 다운로드]
 
 
