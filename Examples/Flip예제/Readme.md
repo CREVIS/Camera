@@ -5,8 +5,8 @@
 </ul>
 
 <li> 참고 사항
-<br> - Continuous Grab을 위한 함수 수정 : Continuous Grab을 사용하기 위해선 TriggerMode=OFF, ContinuousGrabbing(1) 설정필요
-<br> - GrabAsync를 위한 함수 수정 : 비동기 그랩을 위해서 GrabAsyncStart, GrabAsync필요
+<ul>- Continuous Grab을 위한 함수 수정 : Continuous Grab을 사용하기 위해선 TriggerMode=OFF, ContinuousGrabbing(1) 설정필요
+- GrabAsync를 위한 함수 수정 : 비동기 그랩을 위해서 GrabAsyncStart, GrabAsync필요
 
 <li> 기타 사항
 <br> - OpenCV버전은 3.4.15 버전 사용.
