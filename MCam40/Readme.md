@@ -36,7 +36,8 @@
 | 2021.06.16 | 4.7.7.7837 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_Runtime_V4.7.7.7837(x64).zip)|<ul><li>MCam40_Runtime_V4.7.7.7837(x64)<br/></li>|
 | 2021.06.16 | 4.7.7.7837 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_SDK_V4.7.7.7837(x86).zip)| <ul><li>MCam40_SDK_V4.7.7.7837(x86)<br/></li> |
 | 2021.06.16 | 4.7.7.7837 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_SDK_V4.7.7.7837(x64).zip)| <ul><li>MCam40_SDK_V4.7.7.7837(x64)<br/></li> |
-
+| 2022.01.20 | ---------- | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_Patch_CamGuideCL_012022(x86).zip)| <ul><li>MCam40_Patch_CamGuideCL_012022(x86)<br/></li> |
+| 2022.01.20 | ---------- | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_Patch_CamGuideCL_012022(x64).zip)| <ul><li>MCam40_Patch_CamGuideCL_012022(x64)<br/></li> |
   
 <br><br><br><br>  
 ---------------
@@ -54,3 +55,4 @@
 | 2021.03.30 |4.7.4.7758| <br> <ul> <li> **1. 아이콘 변경.(CamGuide, CamGuide40, CamGuideCL, MvIpConfig)** <br><br> <li> **2. VirtualFG40 ST_CvtColor 함수 버그 패치** <br><br> <li> **3. CamGuide,CamGuide40** <br> <ul> <li> Auto Contrast 폴링 기능 추가 </ul> <br> <li> **4. CamGuide 편광 Degree 디스플레이 버그 수정** <br> <ul> <li> Degree 90° 에서 스크롤바 제어시 디스플레이 멈추는 버그 수정|
 | 2021.04.16 |4.7.5.7775| <br> <ul> <li> **1. USB2.0 버그 패치** <br><br> <li> **2. Event 추가** <br><br> <li> **3. VirtualFG40** <br> <ul> <li> MCAM_ERR_U3V_LINK_SPEED 추가|
 | 2021.06.16 |4.7.7.7837| <br> <ul> <li> **1. Syscam 버그 패치** <br><br> <li> **2. Event Data 관련 업데이트** <br><br> <li> **3. GigE 카메라 최대 연결 갯수 버그 패치** <br><br> <li> **4. VB6.0 예제 수정 (Open 안되는 현상 패치)**|
+| 2022.01.20 |----------| <br> <ul> <li> **1. CamGuideCL에서 별도의 수정 없이 신규 모델 추가할 수 있도록 패치** <br><br> <li> **2. Teledyne DALSA FrameGrabber Pending 관련 호환성 대응**|
