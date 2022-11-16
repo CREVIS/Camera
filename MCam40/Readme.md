@@ -53,8 +53,7 @@
 ## Update Log
 | date | version | Update |
 |------------------------------------|------------------------------|---------------------------|
-| 2022.11.16 |4.8.0.8354| <br> <ul> <li> **Library** <br> <ul><li> **UpdateDevice, AcqStop, CloseDevice 함수 속도 개선.** 
-<br><li> **XML Import 기능 추가(Export는 추후 예정)**
+| 2022.11.16 |4.8.0.8354| <br> <ul> <li> **Library** <br> <ul><li> **UpdateDevice, AcqStop, CloseDevice 함수 속도 개선.** <br><li> **XML Import 기능 추가(Export는 추후 예정)**
 <br><li> **U3V DeviceInfo에 현재 LinkSpeed 추가.**
 <br><li> **기타 버그 패치**|
 | 2022.01.20 |4.7.7.7837| <br> <ul> <li> **CamGuideCL에서 별도의 수정 없이 신규 모델 추가할 수 있도록 패치** <br><br> <li> **Teledyne DALSA FrameGrabber Pending 관련 호환성 대응**|
