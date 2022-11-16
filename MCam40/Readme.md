@@ -28,7 +28,7 @@
   
 <br><br><br><br>  
   
-# MCam40 RunTime
+# MCam40 Runtime
 | date | version | link | Inform |
 |------|---------|------|--------|
 | 2022.11.16 | 4.8.0.8354 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_Runtime_V4.8.0.8354(x64).zip)| <ul><li>MCam40_Runtime_V4.8.0.8354(x64)<br/></li> |
