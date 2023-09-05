@@ -17,7 +17,7 @@ Refer to cvsGEVConfigure.pdf for IP settings.
 ### How to install :
 sudo dpkg -i "deb package"
 
-ex) cvsU3V (amd64)
 ```
+ex) cvsU3V (amd64)
 sudo dpkg -i libcvsU3V_1.1.1-2_amd64.deb
 ```
