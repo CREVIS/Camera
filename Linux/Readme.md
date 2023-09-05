@@ -24,7 +24,7 @@ ex) cvsU3V (amd64)
 $ sudo dpkg -i libcvsU3V_1.1.1-2_amd64.deb
 ```
 
-### Remove (without the configuration files)
+### Remove (without the configuration files) :
 ```sh
 $ sudo dpkg -r "package"
 ```
@@ -33,7 +33,7 @@ ex) cvsU3V
 $ sudo dpkg -r libcvsU3V
 ```
 
-### Purge (with configuration files)
+### Purge (with configuration files) :
 ```sh
 $ sudo dpkg -P "package"
 ```
