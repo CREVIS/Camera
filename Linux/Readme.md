@@ -1,6 +1,6 @@
 ## cvsGEV
 
-Refer to "cvsGEVConfigure.pdf" for IP settings.
+Refer to cvsGEVConfigure.pdf for IP settings.
 
 | date | version | platform | Operating System &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Depends | link |
 | --- | --- | --- | --------- | --- | --- |
