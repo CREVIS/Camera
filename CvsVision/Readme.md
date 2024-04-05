@@ -2,7 +2,7 @@
 # CvsVision
 | date | version | link | Inform |
 |------|---------|------|--------|
-| 2024.04.05 | 1.0.0 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_SDK_V4.8.0.8354(x64).zip)| <ul> Release v1.0.0 <br/></li> |
+| 2024.04.05 | 1.0.0 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_SDK_V4.8.0.8354(x64).zip)| Release v1.0.0 <br/></li> |
   
 <br><br><br> 
   
