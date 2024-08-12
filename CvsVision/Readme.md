@@ -8,7 +8,7 @@
 
 <br>
 
-- VS에서 라이브러리 사용시 환경설정
+- VisualStuidio에서 라이브러리 사용시 환경설정
   - C++
     - 구성 속성 -> C/C++ -> 일반 -> 추가 포함 디렉터리 : $(CREVIS_CAM_ROOT)/CvsVision/include;../include;
     - 구성 속성 -> 링커 -> 일반 -> 추가 라이브러리 디렉터리 : $(CREVIS_CAM_ROOT)/CvsVision/lib/x64;
