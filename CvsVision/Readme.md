@@ -3,7 +3,7 @@
 
 | Date | Download Link | Inform |
 |------|---------------|--------|
-| 2024.04.08 | [링크이동](https://crevis.co.kr/Customer/download?category=&search_word=MCam40_SDK&depth1=&depth2=&depth3=&module_idx=&product_idx=&order=new) | MCam40_SDK 설치|
+| 2024.04.08 | [링크](https://crevis.co.kr/Customer/download?category=&search_word=MCam40_SDK&depth1=&depth2=&depth3=&module_idx=&product_idx=&order=new) | MCam40_SDK 설치|
 
 <br><br><br>
 
