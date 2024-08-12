@@ -1,9 +1,11 @@
 # [필독사항]
-- CvsVision Library 사용 전 MCam40_SDK 설치 필요 (아래 링크에서 최신 MCam40_SDK 설치)
+- CvsVision Library 사용 전 cvsCam_SDK 설치 필요 (아래 링크에서 최신 cvsCam_SDK 설치)
+- ~~CvsVision Library 사용 전 MCam40_SDK 설치 필요 (아래 링크에서 최신 MCam40_SDK 설치)~~
 
 | Date | Download Link | Inform |
 |------|:-------------:|--------|
-| 2024.04.08 | [Link](https://crevis.co.kr/Customer/download?category=&search_word=MCam40_SDK&depth1=&depth2=&depth3=&module_idx=&product_idx=&order=new) | MCam40_SDK 설치|
+| 2024.08.12 | [Download](https://github.com/CREVIS/Camera/tree/master/cvsCam) | cvsCam_SDK 설치|
+| ~~2024.04.08~~ | ~~[Link](https://crevis.co.kr/Customer/download?category=&search_word=MCam40_SDK&depth1=&depth2=&depth3=&module_idx=&product_idx=&order=new)~~ | ~~MCam40_SDK 설치~~|
 
 <br><br><br>
 
