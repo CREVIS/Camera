@@ -1,14 +1,24 @@
-## [필독사항]
-- CvsVision Library 사용전 아래에서 필요한 SDK를 **반드시** 설치하여 주십시오. (아래 링크에서 최신 SDK 설치)
+# [필독사항]
+- ### CvsVision Library 사용전 아래에서 필요한 SDK를 **반드시** 설치하여 주십시오. (아래 링크에서 최신 SDK 설치)
 
 | Date | Download Link | Inform |
 |------|:-------------:|--------|
 | 2024.08.12 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam) | CvsVision Library 1.0.0.2 이상버전 사용시 필요|
 | 2024.04.08 | [Mcam40 SDK](https://crevis.co.kr/Customer/download?category=&search_word=MCam40_SDK&depth1=&depth2=&depth3=&module_idx=&product_idx=&order=new) | CvsVision Library 1.0.0.1 이하버전 사용시 필요|
 
+<br>
+
+- VS에서 라이브러리 사용시 환경설정
+  - C++
+    - 구성 속성 -> C/C++ -> 일반 -> 추가 포함 디렉터리 : $(CREVIS_CAM_ROOT)/CvsVision/include;../include;
+    - 구성 속성 -> 링커 -> 일반 -> 추가 라이브러리 디렉터리 : $(CREVIS_CAM_ROOT)/CvsVision/lib/x64;
+  - C#
+    - 참조 -> 참조 추가 -> 찾아보기 : C:\Program Files\CREVIS\cvsCam\Binaries\cvsCamDotNet.dll
+    - 참조 -> 참조 추가 -> 찾아보기 : C:\Program Files\CREVIS\CvsVision\bin\x64\CvsVisionCSharp.dll
+
 <br><br><br>
 
-# CvsVision
+## CvsVision
 | Date | Version | Download Link | Inform | OS |
 |------|---------|:-------------:|--------|----|
 | 2024.05.13 | 1.0.0.1| [Download](https://github.com/CREVIS/Camera/raw/master/CvsVision/CvsVision%20Library%201.0.0.1.zip)| Vision Tool Library | x64 Windows 10 이상 |
