@@ -4,7 +4,7 @@
 
 | Date | Download Link | Inform |
 |------|:-------------:|--------|
-| 2024.08.12 | [Download](https://github.com/CREVIS/Camera/tree/master/cvsCam) | cvsCam_SDK 설치|
+| 2024.08.12 | [Link](https://github.com/CREVIS/Camera/tree/master/cvsCam) | cvsCam_SDK 설치|
 | ~~2024.04.08~~ | ~~[Link](https://crevis.co.kr/Customer/download?category=&search_word=MCam40_SDK&depth1=&depth2=&depth3=&module_idx=&product_idx=&order=new)~~ | ~~MCam40_SDK 설치~~|
 
 <br><br><br>
