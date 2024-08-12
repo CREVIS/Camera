@@ -1,5 +1,5 @@
-# [필독사항]
-- CvsVision Library 사용전 아래에서 필요한 SDK를 반드시 설치하여 주십시오. (아래 링크에서 최신 SDK 설치)
+## [필독사항]
+- CvsVision Library 사용전 아래에서 필요한 SDK를 **반드시** 설치하여 주십시오. (아래 링크에서 최신 SDK 설치)
 
 | Date | Download Link | Inform |
 |------|:-------------:|--------|
