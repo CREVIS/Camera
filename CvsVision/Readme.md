@@ -12,6 +12,7 @@
   - C++
     - 구성 속성 -> C/C++ -> 일반 -> 추가 포함 디렉터리 : $(CREVIS_CAM_ROOT)/CvsVision/include;../include;
     - 구성 속성 -> 링커 -> 일반 -> 추가 라이브러리 디렉터리 : $(CREVIS_CAM_ROOT)/CvsVision/lib/x64;
+    - 구성 속성 -> 링커 -> 입력 -> 추가 종속성 : cvs_vision.lib;
   - C#
     - 참조 -> 참조 추가 -> 찾아보기 : C:\Program Files\CREVIS\cvsCam\Binaries\cvsCamDotNet.dll
     - 참조 -> 참조 추가 -> 찾아보기 : C:\Program Files\CREVIS\CvsVision\bin\x64\CvsVisionCSharp.dll
