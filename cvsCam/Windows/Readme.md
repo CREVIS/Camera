@@ -1,8 +1,8 @@
 # cvsCam SDK for Windows
 | date | version | link | Inform |
 |------|---------|------|--------|
-| 2024.08.06 | 1.0.1.8983 | [Download](https://github.com/CREVIS/Camera/raw/master/cvsCam/cvsCam%20SDK%2032bit.1.0.1.8983.zip)| <ul><li>cvsCam SDK 32bit.1.0.1.8983<br/></li> |
-| 2024.08.06 | 1.0.1.8983 | [Download](https://github.com/CREVIS/Camera/raw/master/cvsCam/cvsCam%20SDK%2064bit.1.0.1.8983.zip)| <ul><li>cvsCam SDK 64bit.1.0.1.8983<br/></li> |
+| 2024.08.06 | 1.0.1.8983 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Windows/Files/cvsCam%20SDK%2032bit.1.0.1.8983.zip)| <ul><li>cvsCam SDK 32bit.1.0.1.8983<br/></li> |
+| 2024.08.06 | 1.0.1.8983 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Windows/Files/cvsCam%20SDK%2064bit.1.0.1.8983.zip)| <ul><li>cvsCam SDK 64bit.1.0.1.8983<br/></li> |
 
 <br><br><br><br>  
 
