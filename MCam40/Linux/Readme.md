@@ -4,10 +4,10 @@ Refer to [cvsGEVConfigure.pdf](https://github.com/CREVIS/Camera/blob/master/Linu
 
 | Date | Version | Architecture | Operating System | Depends | Change Log | Link |
 | --- | --- | --- | --------- | --- | --- | --- |
-| 2023.09.15 | 1.1.1 | amd64 | Ubuntu 18.04 or newer.| libxml2(≥2.9.4+dfsg1-6)<br>libxslt1.1(≥1.1.29.5)<br>|Modified for Python.|[Download](https://github.com/CREVIS/Camera/raw/master/Linux/deb%20Package/libcvsGEV_1.1.1_amd64.deb)|
-| 2023.09.15 | 1.1.1 | arm64 | Ubuntu 18.04 or newer.| libxml2(≥2.9.4+dfsg1-6)<br>libxslt1.1(≥1.1.29.5)<br>|Modified for Python.|[Download](https://github.com/CREVIS/Camera/raw/master/Linux/deb%20Package/libcvsGEV_1.1.1_arm64.deb)|
-| 2023.09.05 | 1.1.0 | amd64 | Ubuntu 18.04 or newer.| libxml2(≥2.9.4+dfsg1-6)<br>libxslt1.1(≥1.1.29.5)<br>|First Release|[Download](https://github.com/CREVIS/Camera/raw/master/Linux/deb%20Package/libcvsGEV_1.1.0_amd64.deb)|
-| 2023.09.05 | 1.1.0 | arm64 | Ubuntu 18.04 or newer.| libxml2(≥2.9.4+dfsg1-6)<br>libxslt1.1(≥1.1.29.5)<br>|First Release|[Download](https://github.com/CREVIS/Camera/raw/master/Linux/deb%20Package/libcvsGEV_1.1.0_arm64.deb)|
+| 2023.09.15 | 1.1.1 | amd64 | Ubuntu 18.04 or newer.| libxml2(≥2.9.4+dfsg1-6)<br>libxslt1.1(≥1.1.29.5)<br>|Modified for Python.|[Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Linux/deb%20Package/libcvsGEV_1.1.1_amd64.deb)|
+| 2023.09.15 | 1.1.1 | arm64 | Ubuntu 18.04 or newer.| libxml2(≥2.9.4+dfsg1-6)<br>libxslt1.1(≥1.1.29.5)<br>|Modified for Python.|[Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Linux/deb%20Package/libcvsGEV_1.1.1_arm64.deb)|
+| 2023.09.05 | 1.1.0 | amd64 | Ubuntu 18.04 or newer.| libxml2(≥2.9.4+dfsg1-6)<br>libxslt1.1(≥1.1.29.5)<br>|First Release|[Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Linux/deb%20Package/libcvsGEV_1.1.0_amd64.deb)|
+| 2023.09.05 | 1.1.0 | arm64 | Ubuntu 18.04 or newer.| libxml2(≥2.9.4+dfsg1-6)<br>libxslt1.1(≥1.1.29.5)<br>|First Release|[Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Linux/deb%20Package/libcvsGEV_1.1.0_arm64.deb)|
 
 ## cvsU3V
 
