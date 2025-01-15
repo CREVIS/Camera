@@ -14,7 +14,7 @@
 
 </ul>
 
-<br><br>
+<br>
 
 # cvsCam Python for Linux
 <ul><li>다운로드 링크</li>
