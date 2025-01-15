@@ -1,8 +1,8 @@
 # cvsCam SDK for Linux
 | date | version | link | Inform |
 |------|---------|------|--------|
-| 2025.01.14 | 1.0.4.6797 | [Download](https://github.com/CREVIS/Camera/blob/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.4.6797.deb)| <ul><li>x86_64-1.0.4.6797<br/></li> |
-| 2024.09.25 | 1.0.3.6797 | [Download](https://github.com/CREVIS/Camera/blob/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.3.6797.deb)| <ul><li>x86_64-1.0.3.6797<br/></li> |
+| 2025.01.14 | 1.0.4.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.4.6797.deb)| <ul><li>x86_64-1.0.4.6797<br/></li> |
+| 2024.09.25 | 1.0.3.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.3.6797.deb)| <ul><li>x86_64-1.0.3.6797<br/></li> |
 
 
 <br>
