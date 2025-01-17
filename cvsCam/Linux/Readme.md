@@ -74,7 +74,8 @@
             deb https://www.deb-multimedia.org bookworm main non-free
             ```
  
-            - 만약 GPG Error 발생하면 다음단계를 따릅니다.             
+            - 만약 GPG Error 발생하면 다음단계를 따릅니다.
+
             ```
             sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys "해당 키"
             ```
