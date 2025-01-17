@@ -69,14 +69,22 @@
             sudo nano /etc/apt/sources.list
             ```
 
-         - 다음 줄을 추가합니다.               
+            - 다음 줄을 추가합니다.               
             ```
-            deb http://deb.debian.org/debian bookworm main contrib non-free
-            deb http://deb.debian.org/debian-security/ bookworm-security main contrib non-free
-            deb http://deb.debian.org/debian bookworm-updates main contrib non-free
+            deb https://www.deb-multimedia.org bookworm main non-free
+            ```
+ 
+            - 만약 GPG Error 발생하면 다음단계를 따릅니다.             
+            ```
+            sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys "해당 키"
+            ```
+
+            - ex) GPG error: https://www.deb-nultimedia.org bookworm InRetease: The follwing signatures coutdn't be verified because the pubtic key is not available: NO_PUBKEY 5C808C2B65558117
+            ```
+            sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 5C808C2B65558117
             ```
                 
-         2. 패키지 설치 
+         3. 패키지 설치 
             - 저장소를 추가한 후 다음 단계를 따릅니다               
                 1.패키지 목록을 업데이트합니다
                 ```bash
@@ -87,7 +95,7 @@
                 sudo apt install libavcodec58
                 ```
 
-         3. 주의 사항
+         4. 주의 사항
             - Debian 12(Bookworm)에서는 기본적으로 libavcodec59가 제공됩니다.
             - libavcodec58은 이전 버전이므로 호환성 문제가 발생할 수 있습니다.
             - cvsCamCtrl 라이브러리만 사용한다면 설치 하지 않아도 됩니다.
