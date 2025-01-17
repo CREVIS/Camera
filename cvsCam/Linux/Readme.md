@@ -79,7 +79,7 @@
             sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys "해당 키"
             ```
 
-            - ex) GPG error: https://www.deb-nultimedia.org bookworm InRetease: The follwing signatures coutdn't be verified because the pubtic key is not available: NO_PUBKEY 5C808C2B65558117
+            - ex) GPG error: https://www.deb-nultimedia.org bookworm InRelease: The follwing signatures coutdn't be verified because the pubtic key is not available: NO_PUBKEY 5C808C2B65558117
             ```
             sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 5C808C2B65558117
             ```
