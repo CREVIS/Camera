@@ -12,7 +12,11 @@
 
 [cvsCam-1.0.4-6797-py313-none-win_amd64](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Windows/cvsCam-1.0.4-6797-py313-none-win_amd64.whl)
 
-</ul>
+<ul><li>
+Sample 위치 : lib/site-packages/cvsCam/sample
+</ul></ul>
+
+
 
 <br>
 
@@ -28,3 +32,8 @@
 [cvsCam-1.0.4-6797-py312-none-linux_x86_64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/cvsCam-1.0.4-6797-py312-none-linux_x86_64.whl)
 
 [cvsCam-1.0.4-6797-py313-none-linux_x86_64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/cvsCam-1.0.4-6797-py313-none-linux_x86_64.whl)
+
+<ul><li>
+Sample 위치 : lib/site-packages/cvsCam/sample
+</ul></ul>
+
