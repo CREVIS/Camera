@@ -2,6 +2,8 @@
 # MCam40 SDK
 | date | version | link | Inform |
 |------|---------|------|--------|
+| 2025.03.07 | 4.8.2.9196 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_SDK_V4.8.2.9196(x64).exe)| <ul><li>MCam40_SDK_V4.8.2.9196(x64)<br/></li> |
+| 2025.03.07 | 4.8.2.9196 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_SDK_V4.8.2.9196(x86).exe)| <ul><li>MCam40_SDK_V4.8.2.9196(x86)<br/></li> |
 | 2024.12.12 | 4.8.1.9105 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_SDK_V4.8.1.9105(x64).zip)| <ul><li>MCam40_SDK_V4.8.1.9105(x64)<br/></li> |
 | 2024.12.12 | 4.8.1.9105 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_SDK_V4.8.1.9105(x86).zip)| <ul><li>MCam40_SDK_V4.8.1.9105(x86)<br/></li> |
 | 2022.11.16 | 4.8.0.8354 | [Download](https://github.com/CREVIS/Camera/raw/master/MCam40/Download%20Files/MCam40_SDK_V4.8.0.8354(x64).zip)| <ul><li>MCam40_SDK_V4.8.0.8354(x64)<br/></li> |
