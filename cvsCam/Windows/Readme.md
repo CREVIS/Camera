@@ -19,7 +19,7 @@
 ## Update Log
 | date | version | Update |
 |------|---------|--------|
-| 2025.04.16 | 1.0.6.6797 | -- |
+| 2025.04.16 | 1.0.6.6797 | <br> <ul> <li> 공통 <br> <ul> <li> Color Convert 관련 Feature 및 함수 재정의  <br> <li> 재정의에 따른 예제 변경 <br> <br> </ul> <li> cvsCamDotNet <br> <ul> <li> 버그 패치 <br> <br>|
 | 2024.12.13 | 1.0.5.6797 | -- |
 | 2024.12.09 | 1.0.4.6797 |<br> <ul> <li> CamGuide <br> <ul> <li> 편광 카메라 디스플레이 오류 패치  <br> <br> </ul> <li> 공통 <br> <ul> <li> 타사 카메라 리스트업 되는 현상 패치 <br> <li> GigE 카메라의 Packet Resend 관련 Feature 최대값으로 기본 설정<br><br>|
 | 2024.12.06 | 1.0.3.6797 |<br> <ul> <li> CamGuide 추가. <br> <br> <li> cvsCamCtrl <br> <ul> <li> 콜백함수 호출 방법 변경  <br> <li> ST_IsConnectable 함수 추가 <br> <li> 장치 연결 및 정렬 로직 추가 및 개선 <br> <li> 버퍼 크기 처리 기능 버그 패치 <br><br> </ul> <li> VirtualFG40  <br> <ul> <li> 콜백함수 호출 방법 변경  <br> <li> 장치 연결 및 정렬 로직 추가 및 개선  <br> <li> 버퍼 크기 처리 기능 버그 패치  <br><br> </ul> <li> cvsGEVConfigurator  <br> <ul> <li> 카메라 제어 함수 변경  <br> <li>  IP 중복 검사 모듈 개선 <br> <li> IP 설정 방법 변경 <ul> --> Defualt Gateway를 NIC의 IP로 설정하던 것을 0.0.0.0으로 설정 하도록 변경.   </ul> </ul> <br> <li> cvsCamViewer  <br> <ul> <li> 버퍼 크기 처리 기능 버그 패치  <br><br> </ul> <li> cvsCamDotNet <br> <ul> <li> cvsParam 파라미터 추가 <br> <li> 버퍼 처리 개선 <br> <li> 스레드 안전성 및 스타일 개선 <br> <li> 포트 에러 처리 및 Enum 기능 확장 <br> <li> JSON 내보내기 및 가져오기 기능 추가 <br> <li> 파라미터 검색 메서드 추가 <br> <li> 기타 버그 패치 <br><br> |
