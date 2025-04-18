@@ -1,6 +1,7 @@
 # cvsCam SDK for Linux
 | date | version | link | Inform |
 |------|---------|------|--------|
+| 2025.04.18 | 1.0.6.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.6.6797.deb)| <ul><li>x86_64-1.0.6.6797<br/></li> |
 | 2025.04.01 | 1.0.5.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.5.6797.deb)| <ul><li>x86_64-1.0.5.6797<br/></li> |
 | 2025.01.14 | 1.0.4.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.4.6797.deb)| <ul><li>x86_64-1.0.4.6797<br/></li> |
 | 2024.09.25 | 1.0.3.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.3.6797.deb)| <ul><li>x86_64-1.0.3.6797<br/></li> |
@@ -107,6 +108,7 @@
 ## Update Log
 | date | version | Update |
 |------|---------|--------|
+| 2025.04.18 | 1.0.6.6797 | <br> <ul> <li> cvsCamCtrl <br> <ul> <li> Color Convert 관련 Feature 재정의 <br> <br> </ul> <li> cvsCamPlayer <br> <ul> <li> cvsCamPlayer : Scale 기능 추가. <br> <br> |
 | 2024.09.25 | 1.0.3.6797 | 최초 Release |
 
 <br>
