@@ -1,6 +1,8 @@
 # cvsCam SDK for Windows
 | date | version | link | Inform |
 |------|---------|------|--------|
+| 2025.06.13 | 1.0.7.6797 | [Download](https://github.com/CREVIS/Camera/releases/download/publish/cvsCam.SDK.32bit.1.0.7.6797.exe)| <ul><li>cvsCam SDK 32bit.1.0.7.6797<br/></li> |
+| 2025.06.13 | 1.0.7.6797 | [Download](https://github.com/CREVIS/Camera/releases/download/publish/cvsCam.SDK.64bit.1.0.7.6797.exe)| <ul><li>cvsCam SDK 64bit.1.0.7.6797<br/></li> |
 | 2025.04.16 | 1.0.6.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Windows/Files/cvsCam%20SDK%2032bit.1.0.6.6797.zip)| <ul><li>cvsCam SDK 32bit.1.0.6.6797<br/></li> |
 | 2025.04.16 | 1.0.6.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Windows/Files/cvsCam%20SDK%2064bit.1.0.6.6797.zip)| <ul><li>cvsCam SDK 64bit.1.0.6.6797<br/></li> |
 | 2024.12.13 | 1.0.5.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Windows/Files/cvsCam%20SDK%2032bit.1.0.5.6797.zip)| <ul><li>cvsCam SDK 32bit.1.0.5.6797<br/></li> |
@@ -19,6 +21,7 @@
 ## Update Log
 | date | version | Update |
 |------|---------|--------|
+| 2025.06.13 | 1.0.7.6797 | <br> <ul> <li> 공통 <br> <ul> <li>BU-A040M-30 모델 지원.<br> <br> </ul> <li> VirtualFG40 <br> <ul> <li> Async Grab 기능 추가. <br> <br></ul> <li> cvsCamCtrl <br> <ul> <li>Async Grab 기능 추가.<br><li> cvsCamCtrl 사용자 메뉴얼 추가.<br><br> </ul> <li> cvsCamDotNet <br> <ul> <li>GrabMode Type 추가.<br><li> YUV422 변환 버그 수정.<br><li>Bitmap 생성함수 수정.<br><br>  </ul> <li>CamGuide <br> <ul> <li>Program Info Dialog 추가.<br><li>cvsCam SDK Documentation 추가.<br><br>|
 | 2025.04.16 | 1.0.6.6797 | <br> <ul> <li> 공통 <br> <ul> <li> Color Convert 관련 Feature 및 함수 재정의  <br> <li> 재정의에 따른 예제 변경 <br> <br> </ul> <li> cvsCamDotNet <br> <ul> <li> 버그 패치 <br> <br>|
 | 2024.12.13 | 1.0.5.6797 | -- |
 | 2024.12.09 | 1.0.4.6797 |<br> <ul> <li> CamGuide <br> <ul> <li> 편광 카메라 디스플레이 오류 패치  <br> <br> </ul> <li> 공통 <br> <ul> <li> 타사 카메라 리스트업 되는 현상 패치 <br> <li> GigE 카메라의 Packet Resend 관련 Feature 최대값으로 기본 설정<br><br>|
