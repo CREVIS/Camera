@@ -1,4 +1,4 @@
-# CamGuideCL (2.3.6 이후 버전은 MCam40으로 통합)
+# CamGuideCL (2.3.6 ~ 2.4.3 사이 버전은 MCam40 4.6 ~ 4.8.8354 으로 통합)
 
 | date | version | link | Inform |
 |---|---|---|-------------|
