@@ -2,6 +2,7 @@
 
 | date | version | link | Inform |
 |---|---|---|-------------|
+| 2025.07.14 | 2.4.3.0 | [Download(x86)](https://github.com/CREVIS/Camera/releases/download/v2.4.3/CamGuideCL.32bit.2.4.3.exe) <br> [Download(x64)](https://github.com/CREVIS/Camera/releases/download/v2.4.3/CamGuideCL.64bit.2.4.3.exe)  | <ul><li>SWIR 카메라 신규 명령어 추가 <br/></li> <ul><li>TEC, Sharpness, Contrast</li>|
 | 2020.01.22 | 2.3.6.0 | [Download](https://github.com/CREVIS/Camera/raw/master/CamGuideCL/CamGuideCL_V2.3.6.zip)| <ul><li>MC-A121P-67 신규 모델 추가 <br/></li> <li>SMCL 시리즈 XML 신규 등록 및 업데이트</li><li>GenICam 2.4 업데이트 <br/></li><li>GenICam 타사 충돌 방지 업데이트<br/></li>|
 | 2019.08.30 | 2.3.5.0 | [Download](https://github.com/CREVIS/Camera/raw/master/CamGuideCL/CamGuideCL_V2.3.5.zip)| <ul><li>CamGuideCL 실행파일 패치 <br/></li>-WhiteBalance 버그 개선 <br/></li> <li>TC-A160K-SEM 신규 모델 등록</li><li>SMCL 시리즈 XML 업데이트 <br/></li><li>LineScan 시리즈 XML 업데이트<br/></li>|
 | 2019.02.28 | 2.3.4.0 | [Download](https://github.com/CREVIS/Camera/raw/master/CamGuideCL/CamGuideCL_V2.3.4.zip)| <ul><li>편광 모델명 변경 및 기능 업데이트 (MC-A500P-163) <br/></li> <li>3CC 모델 등재 (TC-A040K-200)</li><li>LineScan 카메라 기능 업데이트 <br/></li><li>CLProtocol Read Timeout 업데이트<br/></li>|
