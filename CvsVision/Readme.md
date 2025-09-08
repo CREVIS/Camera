@@ -4,8 +4,8 @@
 
 | Date | Download Link | Inform |
 |------|:-------------:|--------|
-| 2024.12.17 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam/Windows) | CvsVision Library 1.0.0.3 사용시 cvsCam 1.0.5 만 호환  |
-| 2024.08.13 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam/Windows) | CvsVision Library 1.0.0.2 사용시 cvsCam 1.0.1 이상 필요|
+| 2024.12.17 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam/Windows) | CvsVision 1.0.0.3 사용시 cvsCam 1.0.5 만 호환  |
+| 2024.08.13 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam/Windows) | CvsVision 1.0.0.2 사용시 cvsCam 1.0.1 이상 필요|
 | 2024.04.08 | [Mcam40 SDK](https://crevis.co.kr/Customer/download?category=&search_word=MCam40_SDK&depth1=&depth2=&depth3=&module_idx=&product_idx=&order=new) | CvsVision Library 1.0.0.1 이하 사용시 필요|
 
 <br>
