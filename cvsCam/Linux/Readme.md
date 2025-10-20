@@ -4,7 +4,8 @@
 | 2025.10.14 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_Ubuntu-18.04-x86_64-1.1.0.7155.deb) | <ul><li>Ubuntu-18.04-x86_64</br></li> |
 | 2025.10.14 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_Ubuntu-20.04-x86_64-1.1.0.7155.deb) | <ul><li>Ubuntu-20.04-x86_64</br></li> |
 | 2025.10.14 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_Ubuntu-22.04-x86_64-1.1.0.7155.deb) | <ul><li>Ubuntu-22.04-x86_64</br></li> |
-| 2025.10.14 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_Raspberry_Pi4_Pi5_linux-aarch64-arm-6.5.3-7155.deb) | <ul><li>Raspberry_Pi4_Pi5_linux-aarch64-arm(bookworm)</br></li> |
+| 2025.10.14 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_Raspberry_Pi4_linux-aarch64-arm-1.1.0.7155.deb) | <ul><li>Raspberry_Pi4_linux-aarch64-arm(bullseye)</br></li> |
+| 2025.10.14 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_Raspberry_Pi4_Pi5_linux-aarch64-arm-1.1.0-7155.deb) | <ul><li>Raspberry_Pi4_Pi5_linux-aarch64-arm(bookworm)</br></li> |
 | 2025.04.18 | 1.0.6.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.6.6797.deb)| <ul><li>x86_64-1.0.6.6797<br/></li> |
 | 2025.04.01 | 1.0.5.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.5.6797.deb)| <ul><li>x86_64-1.0.5.6797<br/></li> |
 | 2025.01.14 | 1.0.4.6797 | [Download](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Linux/Files/cvsCam_SDK_linux-x86_64-1.0.4.6797.deb)| <ul><li>x86_64-1.0.4.6797<br/></li> |
