@@ -1,7 +1,7 @@
 # cvsCam SDK for Windows
 | date | version | link | Inform |
 |------|---------|------|--------|
-| 2025.11.11 | 1.1.1.7155 | [32bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.32bit.1.1.1.7155.exe) [64bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.64bit.1.1.1.7155.exe) [32bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.Runtime.32bit.1.1.1.7155.exe) [64bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.Rudtime.64bit.1.1.1.7155.exe)| <ul><li>cvsCam SDK .1.1.1.7155<br/></li> |
+| 2025.11.11 | 1.1.1.7155 | [32bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.32bit.1.1.1.7155.exe) [64bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.64bit.1.1.1.7155.exe) [32bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.Runtime.32bit.1.1.1.7155.exe) [64bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.Runtime.64bit.1.1.1.7155.exe)| <ul><li>cvsCam SDK .1.1.1.7155<br/></li> |
 | 2025.09.29 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.32bit.1.1.0.7155.exe)| <ul><li>cvsCam SDK 32bit.1.1.0.7155<br/></li> |
 | 2025.09.29 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.64bit.1.1.0.7155.exe)| <ul><li>cvsCam SDK 64bit.1.1.0.7155<br/></li> |
 | 2025.09.17 | 1.0.9.6797 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCamSDK/cvsCam.SDK.32bit.1.0.9.6797.exe)| <ul><li>cvsCam SDK 32bit.1.0.9.6797<br/></li> |
