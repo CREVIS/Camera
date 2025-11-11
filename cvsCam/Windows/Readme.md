@@ -1,8 +1,7 @@
 # cvsCam SDK for Windows
 | date | version | link | Inform |
 |------|---------|------|--------|
-| 2025.11.11 | 1.1.1.7155 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.32bit.1.1.1.7155.exe)| <ul><li>cvsCam SDK 32bit.1.1.1.7155<br/></li> |
-| 2025.11.11 | 1.1.1.7155 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.64bit.1.1.1.7155.exe)| <ul><li>cvsCam SDK 64bit.1.1.1.7155<br/></li> |
+| 2025.11.11 | 1.1.1.7155 | [32bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.32bit.1.1.1.7155.exe) [64bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.64bit.1.1.1.7155.exe) [32bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.Runtime.32bit.1.1.1.7155.exe) [64bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.Rudtime.64bit.1.1.1.7155.exe)| <ul><li>cvsCam SDK .1.1.1.7155<br/></li> |
 | 2025.09.29 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.32bit.1.1.0.7155.exe)| <ul><li>cvsCam SDK 32bit.1.1.0.7155<br/></li> |
 | 2025.09.29 | 1.1.0.7155 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.64bit.1.1.0.7155.exe)| <ul><li>cvsCam SDK 64bit.1.1.0.7155<br/></li> |
 | 2025.09.17 | 1.0.9.6797 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCamSDK/cvsCam.SDK.32bit.1.0.9.6797.exe)| <ul><li>cvsCam SDK 32bit.1.0.9.6797<br/></li> |
@@ -29,6 +28,7 @@
 ## Update Log
 | date | version | Update |
 |------|---------|--------|
+| 2025.11.11 | 1.1.1.7155 | <br> <ul> <li> cvsCamCtrl / VirtualFG40 <br> <ul> <li>Stream Parameter Control 추가.<br> <li> ST_GrabImageAsync 오동작 수정. <br> <li>버퍼 갯수의 기본값 변경 (16 -> 4).<br> <br> </ul> <li> cvsCamDotNet <br> <ul> <li>Stream Parameter Property 추가. <br> <br> </ul> <li> CamGuide <br> <ul> <li>Feature View 탭(Stream Parameter) 추가. <br> <br>|
 | 2025.09.29 | 1.1.0.7155 | <br> <ul> <li> cvsCamDotNet <br> <ul> <li>정수 자료형 32bit -> 64bit<br> <br> </ul> <li> cvsFeatureGenerator <br> <ul> <li>헤더파일 생성 프로그램<br> <br> </ul> <li> cvsDriverInstallationTool <br> <ul> <li>Hyper-V 관련 버그 패치 <br> <br>|
 | 2025.09.17 | 1.0.9.6797 | <br> <ul> <li> cvsDriverInstallationTool <br> <ul> <li>디스플레이 확대/축소 시 폰트의 크기 고정<br> <br> </ul> <li> cvsCamViewer <br> <ul> <li>디스플레이 확대/축소 시 속성 창 높이 고정<br> <br> </ul> <li> CamGuide <br> <ul> <li>DeviceView 아이콘 패치 <br> <br> </ul> <li> cvsCamCtrl Library <br> <ul> <li> 특정 모델의 잘못된 분기로 인해 발생한 오류를 수정 <br><br> </ul> <li> cvsCamDotNet Library <br> <ul> <li>버그패치<br> <br> </ul> <li> 매뉴얼 <br> <ul> <li>멀티캐스트 기능 내용 추가, 오탈자 수정<br> <br> |
 | 2025.09.08 | 1.0.8.6797 | <br> <ul> <li> cvsGEVConfigurator <br> <ul> <li>버그패치<br> <br> </ul> <li> cvsCamViewer <br> <ul> <li>Multicast 기능 추가<br> <br> </ul> <li> CamGuide <br> <ul> <li>ReceiveImage Save 버그패치<br> <br> </ul> <li> cvsDriverInstallationTool (신규 프로그램) <br> <ul> <li>GigE, U3V 드라이버 설치 및 제거 <br> <li>네트워크 어댑터 설정 <br> <li>프로그램 방화벽 예외 추가 및 제거 <br> <br> </ul> <li> cvsCamCtrl Library <br> <ul> <li> SingleGrabImage와 GrabImageSync의 잘못된 반환 값 수정 <br> <li>SingleGrabImage 함수에 특정 모델의 분기 추가. <br> <li>멀티캐스트 기능을 지원하기 위해 enum CvsAccessType 정의되었고 ST_OpenDeviceMulticast함수 추가 <br> <li> 패킷 자동협상 기능 수정. <br> <li> 방화벽 설정에 관계없이 GEV 장치가 작동하도록 보장<br><br> </ul> <li> cvsCamDotNet Library <br> <ul> <li>버그패치<br> <br> |
