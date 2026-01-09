@@ -1,5 +1,5 @@
 # cvsCam SDK for Windows
-| date | version | link | Inform |
+| Date | Version | Download Link | Inform |
 |------|---------|------|--------|
 | 2026.01.19 | 1.1.2.7155 | [32bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.1.1.2.7155.x86.Setup.exe) [64bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.1.1.2.7155.x64.Setup.exe) [32bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.Runtime.1.1.2.7155.x86.Setup.exe) [64bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.Runtime.1.1.2.7155.x64.Setup.exe)| <ul><li>cvsCam SDK 1.1.2.7155<br/></li> |
 | 2025.11.11 | 1.1.1.7155 | [32bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.32bit.1.1.1.7155.exe) [64bit](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.64bit.1.1.1.7155.exe) [32bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.Runtime.32bit.1.1.1.7155.exe) [64bit(Runtime)](https://github.com/CREVIS/Camera/releases/download/cvsCam/cvsCam.SDK.Runtime.64bit.1.1.1.7155.exe)| <ul><li>cvsCam SDK 1.1.1.7155<br/></li> |
@@ -18,7 +18,7 @@
 <br><br><br><br>  
 
 ## Update Log
-| date | version | Update |
+| Date | Version | Update |
 |------|---------|--------|
 | 2026.01.09 | 1.1.2.7155 | <br> <ul> <li> cvsCamCtrl <br> <ul> <li>내부 함수 최적화.<br> <li> 잘못된 호출 규약 정리. <br> <li>color convert 기능 강화. <br> <li> ST_UpdateDeviceWithTimeout 함수 추가. <br> <br> </ul> <li> cvsCamDotNet <br> <ul> <li>Class 이름 변경 (cvsSystem -> CvsSystem / cvsDevice -> CvsDevice). <br> <br> </ul> <li> VirtualFG40 <br> <ul> <li>64bit Intger 용 Feature Contorl 함수 추가.<br> <br> </ul> <li> CamGuide <br> <ul> <li>Acquisition Mode 관련 Grab 버튼 활성화 기능 수정. <br> <li> 예제 폴더 바로가기 버튼 추가 (SDK 한정). <br> <br> </ul> <li> 공통 <br> <ul> <li>메뉴얼 추가.<br> <br> |
 | 2025.09.29 | 1.1.0.7155 | <br> <ul> <li> cvsCamDotNet <br> <ul> <li>정수 자료형 32bit -> 64bit<br> <br> </ul> <li> cvsFeatureGenerator <br> <ul> <li>헤더파일 생성 프로그램<br> <br> </ul> <li> cvsDriverInstallationTool <br> <ul> <li>Hyper-V 관련 버그 패치 <br> <br>|
