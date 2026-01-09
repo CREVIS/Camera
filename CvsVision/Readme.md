@@ -22,6 +22,10 @@
 
 <br><br>
 # [CvsVision Library]
+
+## Install Manual
+| [![View PDF](https://img.shields.io/badge/PDF-View_Manual-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/CREVIS/Camera/blob/master/CvsVision/CvsVision%20%EC%84%A4%EC%B9%98%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf) | [![Download PDF](https://img.shields.io/badge/PDF-Download_Manual-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/CREVIS/Camera/releases/download/CvsVision/CvsVision.Install.Manual.pdf) |
+
 ## Download Link
 | Date | Version | Download Link | Inform | OS |
 |------|---------|:-------------:|--------|----|
