@@ -30,7 +30,7 @@
 | Date | Version | Download Link | Inform | OS |
 |------|---------|:-------------:|--------|----|
 | 2026.01.09 | 1.0.0.4| [Download](https://github.com/CREVIS/Camera/releases/download/CvsVision/CvsVision.SDK.1.0.0.4.x64.Setup.exe)| cvsCam v1.1.2 이상 호환 | x64 Windows 10 이상 |
-| 2026.01.09 | CvsVisionGPU| [Download](https://github.com/CREVIS/Camera/releases/download/CvsVision/CvsPythonGPU.7z) |[![설치 매뉴얼](https://img.shields.io/badge/설치%20매뉴얼-black?style=flat-square&logo=github&logoColor=white)](https://github.com/CREVIS/Camera/blob/master/CvsVision/CvsVision%20%EC%84%A4%EC%B9%98%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)| x64 Windows 10 이상 |
+| 2026.01.09 | CvsVisionGPU| [Download](https://github.com/CREVIS/Camera/releases/download/CvsVision/CvsPythonGPU.7z) | [ <img src="https://github.com/CREVIS/Camera/raw/master/CvsVision/crevis.ico" width="30" align="middle"> **설치 매뉴얼 (PDF)** ](https://github.com/CREVIS/Camera/blob/master/CvsVision/CvsVision%20%EC%84%A4%EC%B9%98%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf) | x64 Windows 10 이상 |
 | 2024.12.17 | 1.0.0.3| [Download](https://github.com/CREVIS/Camera/raw/master/CvsVision/CvsVision%20Library%201.0.0.3.zip)| cvsCam v1.0.5 만 호환 | x64 Windows 10 이상 |
 | 2024.08.13 | 1.0.0.2| [Download](https://github.com/CREVIS/Camera/raw/master/CvsVision/CvsVision%20Library%201.0.0.2.zip)| cvsCam v1.0.1 이상 호환 | x64 Windows 10 이상 |
 | 2024.05.13 | 1.0.0.1| [Download](https://github.com/CREVIS/Camera/raw/master/CvsVision/CvsVision%20Library%201.0.0.1.zip)| Vision Tool Library | x64 Windows 10 이상 |
