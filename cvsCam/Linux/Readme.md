@@ -87,6 +87,7 @@
 ## Update Log
 | date | version | Update |
 |------|---------|--------|
+| 2026.04.21 | 1.1.4.9596 | <br> <ul> <li> 공통 <br> <ul> <li>GEV 기본 라이브러리 업데이트. <br> <li> C 표준 호환성 확보를 위한 구조 개선. <br> <li> BU-A040M-30 모델에서 발생하는 문제 수정. <br> <br> |
 | 2025.10.14 | 1.1.0.7155 | <br><ul> <li> cvsCamCtrl <br><ul><li> 멀티캐스트 기능 지원을 위한 ST_OpenDeviceMulticast 함수와 CvsAccessType 열거형 추가<br/><li> 패킷 자동 협상 기능이 수정<br/><li> 방화벽 설정에 관계없이 GEV 장치가 작동하도록 수정<br/><li> 각종 버그 패치<br><br></ul> <li> cvsCamPlayer <br/><ul> <li> 동영상 녹화 기능 추가. <br/><br> |
 | 2025.04.18 | 1.0.6.6797 | <br> <ul> <li> cvsCamCtrl <br><ul><li> Color Convert 관련 Feature 재정의 <br><br></ul><li> cvsCamPlayer <br> <ul> <li> cvsCamPlayer : Scale 기능 추가. <br> <br> |
 | 2024.09.25 | 1.0.3.6797 | 최초 Release |
