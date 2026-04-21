@@ -25,7 +25,7 @@ Sample 위치 : lib/site-packages/cvsCam/sample
 
 [cvsCam-1.1.4-9596-py39-none-linux_x86_64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_x86_64/cvscam-1.1.4-9596-py39-none-linux_x86_64.whl)
 
-[cvsCam-1.1.4-9596-py310-none-linux_x86_64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_x86_64/cvsCam-1.1.4-9596-py310-none-linux_x86_64.whl)
+[cvsCam-1.1.4-9596-py310-none-linux_x86_64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_x86_64/cvscam-1.1.4-9596-py310-none-linux_x86_64.whl)
 
 [cvsCam-1.1.4-9596-py311-none-linux_x86_64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_x86_64/cvsCam-1.1.4-9596-py311-none-linux_x86_64.whl)
 
