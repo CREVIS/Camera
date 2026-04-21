@@ -22,6 +22,7 @@
 ## Update Log
 | Date | Version | Update |
 |------|---------|--------|
+| 2026.04.21 | 1.1.4.9596 | <br> <ul> <li> 공통 <br> <ul> <li>GEV 기본 라이브러리 업데이트. <br> <li> C 표준 호환성 확보를 위한 구조 개선. <br> <li> BU-A040M-30 모델에서 발생하는 문제 수정. <br> <br> |
 | 2026.01.28 | 1.1.3.7155 | <br> <ul> <li> 공통 <br> <ul> <li>GEV Packet Resend 관련 Stream Parmeter 버그 패치. <br> <br> |
 | 2026.01.09 | 1.1.2.7155 | <br> <ul> <li> cvsCamCtrl <br> <ul> <li>내부 함수 최적화.<br> <li> 잘못된 호출 규약 정리. <br> <li>color convert 기능 강화. <br> <li> ST_UpdateDeviceWithTimeout 함수 추가. <br> <br> </ul> <li> cvsCamDotNet <br> <ul> <li>Class 이름 변경 (cvsSystem -> CvsSystem / cvsDevice -> CvsDevice). <br> <br> </ul> <li> VirtualFG40 <br> <ul> <li>64bit Integer 용 Feature Contorl 함수 추가.<br> <br> </ul> <li> CamGuide <br> <ul> <li>Acquisition Mode 관련 Grab 버튼 활성화 기능 수정. <br> <li> 예제 폴더 바로가기 버튼 추가 (SDK 한정). <br> <br> </ul> <li> 공통 <br> <ul> <li>메뉴얼 추가.<br> <br> |
 | 2025.11.11 | 1.1.1.7155 | <br> <ul> <li> cvsCamCtrl / VirtualFG40 <br> <ul> <li>Stream Parameter Control 추가.<br> <li> ST_GrabImageAsync 오동작 수정. <br> <li>버퍼 갯수의 기본값 변경 (16 -> 4).<br> <br> </ul> <li> cvsCamDotNet <br> <ul> <li>Stream Parameter Property 추가. <br> <br> </ul> <li> CamGuide <br> <ul> <li>Feature View 탭(Stream Parameter) 추가. <br> <br>|
