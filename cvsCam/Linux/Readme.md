@@ -1,8 +1,8 @@
 # cvsCam SDK for Linux
 | date | version | link | Inform |
 |------|---------|------|--------|
-| 2026.04.21 | 1.1.4.9596 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam_SDK_for_Linux/cvsCam_SDK_Raspberry_Pi4_linux-aarch64-arm-1.1.4.9596.deb) | <ul><li>Raspberry_Pi4_linux-aarch64-arm</br></li> |
-| 2026.04.21 | 1.1.4.9596 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam_SDK_for_Linux/cvsCam_SDK_Raspberry_Pi4_Pi5_linux-aarch64-arm-1.1.4.9596.deb) | <ul><li>Raspberry_Pi4_Pi5_linux-aarch64-arm</br></li> |
+| 2026.04.21 | 1.1.4.9596 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam_SDK_for_Linux/cvsCam_SDK_Raspberry_Pi4_linux-aarch64-arm-1.1.4.9596.deb) | <ul><li>Raspberry_Pi4_linux-aarch64-arm(bullseye)</br></li> |
+| 2026.04.21 | 1.1.4.9596 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam_SDK_for_Linux/cvsCam_SDK_Raspberry_Pi4_Pi5_linux-aarch64-arm-1.1.4.9596.deb) | <ul><li>Raspberry_Pi4_Pi5_linux-aarch64-arm(bookworm)</br></li> |
 | 2026.04.21 | 1.1.4.9596 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam_SDK_for_Linux/cvsCam_SDK_Ubuntu-18.04-x86_64-1.1.4.9596.deb) | <ul><li>Ubuntu-18.04-x86_64-1.1.4.9596</br></li> |
 | 2026.04.21 | 1.1.4.9596 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam_SDK_for_Linux/cvsCam_SDK_Ubuntu-20.04-x86_64-1.1.4.9596.deb) | <ul><li>Ubuntu-20.04-x86_64-1.1.4.9596</br></li> |
 | 2026.04.21 | 1.1.4.9596 | [Download](https://github.com/CREVIS/Camera/releases/download/cvsCam_SDK_for_Linux/cvsCam_SDK_Ubuntu-22.04-x86_64-1.1.4.9596.deb) | <ul><li>Ubuntu-22.04-x86_64-1.1.4.9596</br></li> |
