@@ -1,6 +1,11 @@
 
+<br><br>
+<li>
+Sample 위치 : lib/site-packages/cvsCam/sample
+
+
+
 # cvsCam Python for Window
-<ul><li>다운로드 링크</li>
 
 [cvsCam-1.1.4-9596-py39-none-win_amd64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Windows/cvscam-1.1.4-9596-py39-none-win_amd64.whl)
 
@@ -12,16 +17,11 @@
 
 [cvsCam-1.1.4-9596-py313-none-win_amd64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Windows/cvscam-1.1.4-9596-py313-none-win_amd64.whl)
 
-<ul><li>
-Sample 위치 : lib/site-packages/cvsCam/sample
-</ul></ul>
-
-
-
 <br>
 
 # cvsCam Python for Linux
-<ul><li>다운로드 링크</li>
+
+<ul><li> linux_x86_64 </li></ul>
 
 [cvsCam-1.1.4-9596-py39-none-linux_x86_64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_x86_64/cvscam-1.1.4-9596-py39-none-linux_x86_64.whl)
 
@@ -33,6 +33,10 @@ Sample 위치 : lib/site-packages/cvsCam/sample
 
 [cvsCam-1.1.4-9596-py313-none-linux_x86_64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_x86_64/cvscam-1.1.4-9596-py313-none-linux_x86_64.whl)
 
+<br>
+
+<ul><li> linux_aarch64 </li></ul>
+
 [cvscam-1.1.4-9596-py39-none-linux_aarch64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_aarch64/cvscam-1.1.4-9596-py39-none-linux_aarch64.whl)
 
 [cvscam-1.1.4-9596-py310-none-linux_aarch64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_aarch64/cvscam-1.1.4-9596-py310-none-linux_aarch64.whl)
@@ -42,8 +46,4 @@ Sample 위치 : lib/site-packages/cvsCam/sample
 [cvscam-1.1.4-9596-py312-none-linux_aarch64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_aarch64/cvscam-1.1.4-9596-py312-none-linux_aarch64.whl)
 
 [cvscam-1.1.4-9596-py313-none-linux_aarch64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_aarch64/cvscam-1.1.4-9596-py313-none-linux_aarch64.whl)
-
-<ul><li>
-Sample 위치 : lib/site-packages/cvsCam/sample
-</ul></ul>
 
