@@ -23,6 +23,7 @@
 ## Update Log
 | Date | Version | Update |
 |------|---------|--------|
+| 2026.05.15 | 1.1.5.9629 | <br> <ul> <li> cvsCamCtrl  <br> <ul> <li>멀티스레드 안전성 및 자원 관리 강화, API 입력값 검증과 코드 안정성 보완. <br> <li> 버그 패치  <br> <br> </ul> <li> cvsCamDotNet <br> <ul> <li>Interpolation 필터 선택 기능 추가. . <br> <br> </ul> <li> CamGuide <br> <ul> <li> 버퍼 갯수 설정, Interpolation 필터 선택 UI 추가. <br> <br>  </ul> <li> cvsGEVTL / cvsU3VTL 베타 버전 추가. <br> <br>  |
 | 2026.04.21 | 1.1.4.9596 | <br> <ul> <li> 공통 <br> <ul> <li>기본 라이브러리 업데이트. <br> <li> C 표준 호환성 확보를 위한 구조 개선. <br> <li> BU-A040M-30 모델에서 발생하는 문제 수정. <br> <br> |
 | 2026.01.28 | 1.1.3.7155 | <br> <ul> <li> 공통 <br> <ul> <li>GEV Packet Resend 관련 Stream Parmeter 버그 패치. <br> <br> |
 | 2026.01.09 | 1.1.2.7155 | <br> <ul> <li> cvsCamCtrl <br> <ul> <li>내부 함수 최적화.<br> <li> 잘못된 호출 규약 정리. <br> <li>color convert 기능 강화. <br> <li> ST_UpdateDeviceWithTimeout 함수 추가. <br> <br> </ul> <li> cvsCamDotNet <br> <ul> <li>Class 이름 변경 (cvsSystem -> CvsSystem / cvsDevice -> CvsDevice). <br> <br> </ul> <li> VirtualFG40 <br> <ul> <li>64bit Integer 용 Feature Contorl 함수 추가.<br> <br> </ul> <li> CamGuide <br> <ul> <li>Acquisition Mode 관련 Grab 버튼 활성화 기능 수정. <br> <li> 예제 폴더 바로가기 버튼 추가 (SDK 한정). <br> <br> </ul> <li> 공통 <br> <ul> <li>메뉴얼 추가.<br> <br> |
