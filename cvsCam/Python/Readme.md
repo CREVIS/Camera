@@ -47,3 +47,9 @@ Sample 위치 : lib/site-packages/cvsCam/sample
 
 [cvscam-1.1.4-9596-py313-none-linux_aarch64.whl](https://github.com/CREVIS/Camera/raw/refs/heads/master/cvsCam/Python/Linux/linux_aarch64/cvscam-1.1.4-9596-py313-none-linux_aarch64.whl)
 
+<br><br><br><br> 
+
+## Update Log
+| Date | Version | Update |
+|------|---------|--------|
+| 2026.05.15 | 1.1.5.9629 | <br> <ul> <li> python 예제 수정  <br> <ul> <li>FeatureControl.py: feature 수정 전 값 저장 및 원복 기능 추가. <br> <li>MultipleCameras.py: 다중 카메라 동시 grab을 위한 스레드 방식으로 변경  <br> <br> |
