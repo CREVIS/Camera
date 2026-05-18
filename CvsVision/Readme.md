@@ -4,7 +4,7 @@
 
 | Date | Download Link | Inform |
 |------|:-------------:|--------|
-| 2026.05.18 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam/Windows) | CvsVision 1.0.0.5 사용시 cvsCam v1.1.5 이상 호환  |
+| 2026.05.18 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam/Windows) | CvsVision 1.0.0.5 사용시 cvsCam v1.1.4 이상 호환  |
 | 2026.01.09 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam/Windows) | CvsVision 1.0.0.4 사용시 cvsCam v1.1.2 이상 호환  |
 | 2024.12.17 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam/Windows) | CvsVision 1.0.0.3 사용시 cvsCam v1.0.5 만 호환  |
 | 2024.08.13 | [cvsCam SDK](https://github.com/CREVIS/Camera/tree/master/cvsCam/Windows) | CvsVision 1.0.0.2 사용시 cvsCam v1.0.1 이상 필요|
